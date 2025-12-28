@@ -12,6 +12,15 @@ and secure system practices.
 
 ---
 
+## File Location
+The script is located at:
+
+/home/yourusername/scripts/vpn.sh
+
+Ensure the file is executable before running.
+
+---
+
 ## Features
 - Automates predefined technical workflows
 - Validates inputs and handles errors safely
